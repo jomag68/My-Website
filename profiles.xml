@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profiles>
+  <profile>
+    <name>John Doe</name>
+    <age>30</age>
+    <address>123 Elm Street</address>
+    <email>johndoe@example.com</email>
+  </profile>
+  <profile>
+    <name>Jane Smith</name>
+    <age>28</age>
+    <address>456 Oak Avenue</address>
+    <email>janesmith@example.com</email>
+  </profile>
+  <profile>
+    <name>Robert Brown</name>
+    <age>35</age>
+    <address>789 Pine Road</address>
+    <email>robertb@example.com</email>
+  </profile>
+  <profile>
+    <name>Alice Johnson</name>
+    <age>24</age>
+    <address>101 Maple Drive</address>
+    <email>alicej@example.com</email>
+  </profile>
+  <profile>
+    <name>Michael White</name>
+    <age>48</age>
+    <address>202 Birch Lane</address>
+    <email>michaelw@example.com</email>
+  </profile>
+  <profile>
+    <name>Emma Green</name>
+    <age>22</age>
+    <address>303 Cedar Boulevard</address>
+    <email>emmag@example.com</email>
+  </profile>
+  <profile>
+    <name>David Lee</name>
+    <age>38</age>
+    <address>404 Pine Street</address>
+    <email>davidl@example.com</email>
+  </profile>
+</profiles>
